@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">deportes</string>
+    <string name="american_fooball">American Football</string>
+    <string name="australian_rules">Australian Rules</string>
+    <string name="bandy">Bandy</string>
+    <string name="baseball">Baseball</string>
+    <string name="basketball">Basketball</string>
+    <string name="beach_soccer">Futbol Beach soccer</string>
+    <string name="boxing">Boxing</string>
+    <string name="chess">Chess</string>
+    <string name="cricket">Cricket</string>
+    <string name="curling">Curling</string>
+    <string name="cycling">Cycling</string>
+    <string name="darts">Darts</string>
+    <string name="daughts">Daughts</string>
+    <string name="floorball">Floorball</string>
+    <string name="gaelic_football" translatable="false">Futbol gaelic</string>
+    <string name="golf">Golf</string>
+    <string name="handball">Handball</string>
+    <string name="icehockey">Hockey sobre hielo</string>
+    <string name="motor">Motor</string>
+    <string name="motorbike">Motociclismo</string>
+    <string name="snooker">Snooker</string>
+    <string name="soccer">Futbol sala</string>
+    <string name="table_tenis">Ping-Pong</string>
+    <string name="tennis">Tenis</string>
+    <string name="trotting">Correr</string>
+    <string name="fighting">Fighting</string>
+    <string name="volleyBall">Boleybol</string>
+    <string name="nameSport">nombreDeporte</string>
+    <string name="txvWelcome">Selecciona tus deportes preferidos y pulsa aceptar</string>
+    <string name="btnOk">Accept</string>
+    <string name="filtrar">Filt Sport</string>
+
+</resources>

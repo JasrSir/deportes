@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">deportes</string>
+    <string name="american_fooball">Futbol Americano</string>
+    <string name="australian_rules">Futbol Australiano</string>
+    <string name="bandy">Bandy</string>
+    <string name="baseball">Beisbol</string>
+    <string name="basketball">Baloncesto</string>
+    <string name="beach_soccer">Futbol playa</string>
+    <string name="boxing">Boxeo</string>
+    <string name="chess">Ajedrez</string>
+    <string name="cricket">Cricket</string>
+    <string name="curling">Curling</string>
+    <string name="cycling">Ciclismo</string>
+    <string name="darts">Dardos</string>
+    <string name="daughts">Daughts</string>
+    <string name="floorball">Suelobola</string>
+    <string name="gaelic_football">Futbol gaelic</string>
+    <string name="golf">Golf</string>
+    <string name="handball">Balonmano</string>
+    <string name="icehockey">Hockey sobre hielo</string>
+    <string name="motor">Motor</string>
+    <string name="motorbike">Motociclismo</string>
+    <string name="snooker">Snooker</string>
+    <string name="soccer">Futbol sala</string>
+    <string name="table_tenis">Ping-Pong</string>
+    <string name="tennis">Tenis</string>
+    <string name="trotting">Correr</string>
+    <string name="fighting">Lucha</string>
+    <string name="volleyBall">Boleybol</string>
+    <string name="nameSport">nombreDeporte</string>
+    <string name="txvWelcome">Selecciona tus deportes preferidos y pulsa aceptar</string>
+    <string name="btnOk">Aceptar</string>
+    <string name="filtrar">Filtrar Deportes</string>
+
+</resources>
